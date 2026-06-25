@@ -1,6 +1,6 @@
 ##### https://pi.dev/
 # ------------------------------------------
-# Pi shortcut (p → polished output, macOS-safe)
+# Alias "p" for Pi-dev Ai command as give a polished Output (used in macOS)
 # ------------------------------------------
 
 p() {

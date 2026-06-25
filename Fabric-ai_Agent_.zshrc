@@ -1,5 +1,10 @@
+# https://github.com/danielmiessler/fabric
+# brew install fabric-ai
+alias fabric="fabric-ai"
+############
+
 # ==========================================
-# ⚡ AI Shell (Clean + Proper Detailed Mode)
+# ⚡ AI Shell use command shortcut command "ai"" to reqest a query with fabric-ai in different mode such as in summary or detailed or explain code
 # ==========================================
 
 setopt NO_BAD_PATTERN
