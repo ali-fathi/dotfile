@@ -1,0 +1,14 @@
+Host k3s-master
+    HostName 192.168.178.80
+    User ansible
+    IdentityFile ~/.ssh/my_ansible_homelab
+
+Host k3s-worker1
+    HostName 192.168.178.81
+    User ansible
+    IdentityFile ~/.ssh/my_ansible_homelab
+
+Host k3s-worker2
+    HostName 192.168.178.82
+    User ansible
+    IdentityFile ~/.ssh/my_ansible_homelab
